@@ -19,10 +19,13 @@ body {
     background: white;
 }
 
-.box span {}
+.box span {
+    font-size: 20px !;
+}
 
 .box-img {
     vertical-align: center;
+    margin-right: 16px;
 }
 
 .row a:hover {
