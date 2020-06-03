@@ -20,7 +20,8 @@ body {
 }
 
 .box span {
-    font-size: 20px !;
+    font-size: 20px !important;
+    /* display: inline; */
 }
 
 .box-img {
