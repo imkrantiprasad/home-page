@@ -21,8 +21,8 @@ body {
         0 22.3px 17.9px rgba(0, 0, 0, 0.072);
 
 
-    width: 100% !important;
-    height: 400px !important;
+    min-width: 100% !important;
+    height: 100px !important;
     margin: auto;
     /* margin: 100px auto; */
     margin-bottom: 30px;
