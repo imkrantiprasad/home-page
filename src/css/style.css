@@ -1,3 +1,5 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Arimo&display=swap"); */
+
 html {
 	line-height: 1.15;
 	-ms-text-size-adjust: 100%;
@@ -384,8 +386,8 @@ h6,
 .h6 {
 	clear: both;
 	color: #202932;
-	font-family: "Arimo", sans-serif;
-	font-weight: 700
+	font-family: "Courier 10 Pitch", sans-serif;
+	font-weight: 600;
 }
 
 h1,
@@ -416,7 +418,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-	font-size: 20px;
+	font-size: 18px;
 	line-height: 30px;
 	letter-spacing: -0.1px
 }
@@ -1727,7 +1729,7 @@ label {
 
 @media (min-width: 641px) and (max-width: 1024px) {
 	.tab-link span {
-		font-size: 20px;
+		font-size: 18px;
 		line-height: 30px;
 		letter-spacing: -0.1px
 	}
